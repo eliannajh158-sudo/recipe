@@ -1,6 +1,14 @@
 body {
       font-family: Times New Roman, serif;
     }
+.startingimage {
+    display: flex;
+    gap: 10px;
+    }
+.startingimage img {
+    height: auto;
+    width: 500px;
+    }
 img {
         height: auto;
         width: 500px;
