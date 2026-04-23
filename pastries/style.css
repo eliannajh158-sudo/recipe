@@ -1,5 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
       font-family: 'Times New Roman', Times, serif;
+      padding: 10px;
     }
 .title {
     border: 2px solid black;
@@ -12,12 +18,12 @@ body {
     }
 .startingimage img {
     height: auto;
-    width: 500px;
+    width: 100%;
     object-fit: contain
     }
 img {
         height: auto;
-        width: 500px;
+        width: 100%;
     }
 span {
     background-color: yellow;
