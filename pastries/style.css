@@ -22,6 +22,9 @@ body {
     object-fit: contain;
     flex: 1;
     }
+.startingimage img:last-child {
+    object-fit: cover;
+    }
 img {
         height: auto;
         width: 100%;
