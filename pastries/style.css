@@ -18,7 +18,7 @@ body {
     }
 .startingimage img {
     height: auto;
-    width: 100%;
+    width: 50%;
     object-fit: contain
     }
 img {
