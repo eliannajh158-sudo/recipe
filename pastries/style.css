@@ -19,7 +19,8 @@ body {
 .startingimage img {
     height: auto;
     width: 50%;
-    object-fit: contain
+    object-fit: contain;
+    flex: 1;
     }
 img {
         height: auto;
